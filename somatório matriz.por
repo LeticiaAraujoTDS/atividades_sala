@@ -18,7 +18,7 @@ programa
 			}
 			escreva("\n")	
 	}
-	escreva(soma)
+	escreva("O resultado da soma da matriz é ", soma, ".")
 	}
 }
 /* $$$ Portugol Studio $$$ 
